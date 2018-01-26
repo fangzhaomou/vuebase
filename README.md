@@ -1,15 +1,12 @@
 
-# glfdgwv1.0
-
-> 格兰菲德官网重构1.0
-
+# vuebase
 ## Build Setup
 
 ``` bash
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081
 npm run dev
 
 # build for production with minification
