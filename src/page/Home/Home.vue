@@ -6,6 +6,7 @@
 
 <template>
   <div class="Home">
+    初始化成功!
   </div>
 </template>
 
