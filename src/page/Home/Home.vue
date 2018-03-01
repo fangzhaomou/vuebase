@@ -1,13 +1,15 @@
-<style scoped>
+<style lang="less" scoped>
   .Home {
     background-color: #ffffff;
+    p {
+      font-size: 30px;
+    }
   }
 </style>
 
-<template>
-  <div class="Home">
-    初始化成功!
-  </div>
+<template lang='jade'>
+  div.Home 初始化成功!
+    p 测试文本
 </template>
 
 <script>
